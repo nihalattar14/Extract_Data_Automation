@@ -1,0 +1,10 @@
+State: string, state abbreviation
+Name: string, community name
+Notes: list of strings, additional information about the community
+Latitude: Not available
+Longitude: Not available
+Address: string, full address of the community
+Pricing: string, price range of homes in the community
+Area: string, area of the community in sq. ft.
+URL: string, URL to the community page
+Specifications: string, List of bed, bath, Garage

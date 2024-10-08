@@ -1,0 +1,18 @@
+Region (abbreviation for the state): Constant, due to the region is single but it can be take dynamic
+Community_Name: string, community name
+Plan: strings
+Location: String
+Postal_Code: string
+Estimated_Completion_Date: string
+Price: string, price range of homes in the community
+Discount: string
+Address (street address only): string
+Latitude: Not Available
+Longitude: Not Available
+Area (in sq. ft.): string
+Beds: string
+Baths: string
+Garages: string
+Stories: string
+URL: string, URL to the community page
+Status: string, Availability status
